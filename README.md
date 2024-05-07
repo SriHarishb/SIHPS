@@ -42,6 +42,6 @@ To Develop a mobile app for on-the-go access to features.
 
 
 
-##### A reliable web hosting service.
-##### A third-party service or internal database for estimating precious metal content in various devices.
-##### Payment processing gateway (optional) if points are redeemable for rewards.
+##### A reliable web hosting service. (3 days to create)
+##### A third-party service or internal database for estimating precious metal content in various devices. ( a week to get permissions and a month for estimating the metal amount)
+##### Payment processing gateway (optional) if points are redeemable for rewards.(money fundings from government)
